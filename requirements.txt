@@ -1,0 +1,12 @@
+pandas==2.3.2
+numpy==2.2.5
+numpy-base==2.2.5            
+numpydoc==1.9.0            
+matplotlib==3.10.5           
+matplotlib-base==3.10.5           
+matplotlib-inline==0.1.6
+statsmodels==0.14.5
+pmdarima==2.0.4
+scikit-learn==1.7.1 
+lightgbm==4.6.0
+ipython==8.30.0
