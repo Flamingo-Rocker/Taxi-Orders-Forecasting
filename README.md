@@ -61,9 +61,9 @@ This project benchmarks classical time-series models (**AR**, **MA**, **ARIMA vi
 ```
 taxi-orders-forecasting/
 ├── notebooks/ <- Final cleaned Jupyter notebook
-├── data/ <- Time series data (or link to source)
+├── data/ <- Time series data
 ├── requirements.txt <- Dependencies
-├── LICENSE <- MIT (or your choice)
+├── LICENSE <- MIT
 └── README.md <- This file
 ```
 
